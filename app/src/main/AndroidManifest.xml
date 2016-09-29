@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.inlight.twoweeks">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="sensorPortrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DayOneActivity" />
+        <activity android:name=".DayTwoActivity" />
+        <activity android:name=".DayThreeActivity" />
+        <activity android:name=".DayFourActivity" />
+        <activity android:name=".DayFiveActivity" />
+        <activity android:name=".DaySixActivity" />
+        <activity android:name=".DaySevenActivity" />
+        <activity android:name=".DayEightActivity" />
+        <activity android:name=".DayNineActivity" />
+        <activity android:name=".DayTenActivity" />
+        <activity android:name=".DayElevenActivity" />
+        <activity android:name=".DayTwelveActivity" />
+        <activity android:name=".DayThirteenActivity" />
+        <activity android:name=".DayFourteenActivity"></activity>
+    </application>
+
+</manifest>

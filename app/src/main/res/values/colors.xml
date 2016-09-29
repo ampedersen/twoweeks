@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#8BC34A</color>
+
+    <!-- Blended color between white and "primary_color", used in tabLayout -->
+    <color name="deselected_tab">#A8A19E</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#689F38</color>
+
+    <!-- Primary light color of the app -->
+    <color name="primary_light_color">#DCEDC8</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <color name="accent">#00BCD4</color>
+
+    <color name="primary_text">#212121</color>
+
+    <color name="secondary_text">#757575</color>
+
+    <color name="icons">#212121</color>
+
+    <color name="divider">#BDBDBD</color>
+
+
+</resources>
