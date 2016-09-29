@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/anderspedersen/AndroidStudioProjects/TwoWeeks/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_white_24dp.png",
+        "source": "/Users/anderspedersen/AndroidStudioProjects/TwoWeeks/app/src/main/res/drawable-mdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/anderspedersen/AndroidStudioProjects/TwoWeeks/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_layers_white_24dp.png",
+        "source": "/Users/anderspedersen/AndroidStudioProjects/TwoWeeks/app/src/main/res/drawable-mdpi/ic_layers_white_24dp.png"
+    },
+    {
+        "merged": "/Users/anderspedersen/AndroidStudioProjects/TwoWeeks/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_speaker_notes_white_24dp.png",
+        "source": "/Users/anderspedersen/AndroidStudioProjects/TwoWeeks/app/src/main/res/drawable-mdpi/ic_speaker_notes_white_24dp.png"
+    }
+]
